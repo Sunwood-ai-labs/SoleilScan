@@ -4,6 +4,8 @@ license: mit
 
 ![](https://raw.githubusercontent.com/Sunwood-ai-labs/SoleilScan/main/SoleilScan_icon.jpeg)
 
+[![](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset:SoleilScan-blue)](https://huggingface.co/datasets/MakiAi/SoleilScan)
+
 このリポジトリは、高機能フォトグラメトリーソフト「RealityCapture 1.4」を使用して、クライミングジムのソレイユの壁をスキャンしたプロジェクトのデータを含んでいます。
 
 ## プロジェクトの目的
