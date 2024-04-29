@@ -21,6 +21,8 @@ license: mit
 
 ## データ
 
+![](https://raw.githubusercontent.com/Sunwood-ai-labs/SoleilScan/main/demo1.png)
+
 このリポジトリには以下のデータが含まれています：
 
 - 高解像度の写真（RAW形式とJPEG形式）
